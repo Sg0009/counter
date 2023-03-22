@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">counter</string>
+    <string name="pause_activity">counter</string>
+    <string name="resume_activity">counter</string>
+</resources>
